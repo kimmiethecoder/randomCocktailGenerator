@@ -1,8 +1,7 @@
 # randomCocktailGenerator
 <h1>My Random Cocktail Viewer</h1>
-<p>This is a project displaying information and media pulled from API.</p>
+<p>This is a project displaying information and media pulled from the cocktailDB API.</p>
 
-Link to project: "#"<br>
 ![readMeImage](https://user-images.githubusercontent.com/102115687/170570937-ba54511f-9aba-4877-8432-fe15e7e5f381.jpg)
 
 
